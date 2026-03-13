@@ -10,6 +10,43 @@ The dataset used in this project is **anonymized and modified for portfolio purp
 
 ---
 
+## Dashboard Preview
+
+### Executive Investment & Budget Monitoring Dashboard
+
+![Executive Dashboard](dashboard_preview/overview.png)
+
+This executive dashboard provides a high-level overview of investment allocation, budget utilization, and financial performance across business units.
+
+Key highlights include:
+
+* Total revised budget and actual spending
+* Budget execution rate monitoring
+* Investment allocation by category
+* Monthly spending trend analysis
+* Budget performance comparison across business units
+
+The dashboard enables decision-makers to quickly assess whether investment budgets are being utilized effectively.
+
+---
+
+### Monthly Budget Allocation Breakdown
+
+![Budget Breakdown](dashboard_preview/monthly-breakdown.png)
+![Budget Breakdown](dashboard_preview/program-detail.png)
+
+This detailed view allows users to drill down into individual investment programs and monitor monthly budget allocation.
+
+Key features:
+
+* Program-level investment tracking
+* Category-based budget allocation
+* Monthly breakdown of investment spending
+* Filtering by investment category and month
+
+This view supports operational teams in identifying underutilized budgets and tracking execution progress across programs.
+
+
 ## Business Problem
 
 Organizations often allocate large budgets for strategic investments and operational programs. However, management teams frequently face challenges such as:
