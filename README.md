@@ -61,12 +61,12 @@ Based on the analysis presented in the dashboard:
 
 ### Executive Overview
 
-![Overview Dashboard](dashboard-preview/overview.png)
+![Overview Dashboard](dashboard_preview/overview.png)
 
 ### Monthly Budget Allocation Breakdown
 
-![Monthly Breakdown](dashboard-preview/monthly-breakdown.png)
-![Detail Breakdown](dashboard-preview/program-detail.png)
+![Monthly Breakdown](dashboard_preview/monthly-breakdown.png)
+![Detail Breakdown](dashboard_preview/program-detail.png)
 
 ---
 
